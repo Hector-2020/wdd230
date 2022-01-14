@@ -1,0 +1,23 @@
+@media only screen and (min-width: 32.5em) {
+    h1 {
+        font-family: Montserrat;
+    font-size: 45px;
+    color: white;
+    margin-right: 25px;
+    margin-top: 50px;
+    }
+
+    h2 {
+        font-size:  25px;
+    }
+
+    header img {
+        margin-right: 20px;
+        margin-top: 5px;
+        width: 120px;
+    }
+
+    header {
+        flex-direction: row-reverse;
+    }
+}
